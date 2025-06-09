@@ -2,7 +2,7 @@
 internship program
 
 # DAY1
-### 更详细的笔记内容见Day1/README
+### 更详细的笔记内容见 Day1/README.md
 ## 1. Python基础学习
 
 ### 变量与类型
