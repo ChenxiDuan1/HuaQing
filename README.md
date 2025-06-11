@@ -40,7 +40,7 @@ internship program
 ## 2. 技术实现
 
 ### 关键技术栈
-```python
+
 import rasterio  # 专业地理空间数据处理
 import numpy as np
 import matplotlib.pyplot as plt
