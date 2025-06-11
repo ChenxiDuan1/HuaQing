@@ -46,6 +46,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 # DAY2
+### 详细内容见：Day2/README.md
 ## 实验核心目标
 实现两个CNN模型（AlexNet改进版和自定义ChenNet）在CIFAR-10数据集上的训练与测试。
 
